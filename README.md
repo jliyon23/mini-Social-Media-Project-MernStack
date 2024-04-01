@@ -8,6 +8,11 @@
 
 WayWeGo is a mini social media website where users can share their travel experiences by uploading photos as posts. Built using the MERN stack, WayWeGo features JWT authentication for secure user login, Cloudinary integration for seamless image uploads, and Tailwind CSS for a sleek and modern UI design.
 
+## Screenshots
+
+<img width="680" alt="login" src="https://github.com/jliyon23/mini-Social-Media-Project-MernStack/assets/120583161/56f7a9b0-b267-4f58-92e0-8b2b88f930a9">
+
+
 ## Features:
 - **User Authentication**: Secure user authentication using JSON Web Tokens (JWT).
 - **Image Upload**: Cloudinary-based image upload functionality allows users to easily share their travel photos.
@@ -66,3 +71,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
