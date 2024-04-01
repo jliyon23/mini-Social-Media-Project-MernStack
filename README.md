@@ -37,7 +37,7 @@ WayWeGo is a mini social media website where users can share their travel experi
 To run the project locally, follow these steps:
 1. Clone the repository.
     
-    `git clone https://github.com/jliyon23/waywego-mern.git`
+    `git clone https://github.com/jliyon23/mini-Social-Media-Project-MernStack.git`
 2. Install dependencies using 
     
     In server,
