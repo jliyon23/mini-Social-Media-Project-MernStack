@@ -11,6 +11,9 @@ WayWeGo is a mini social media website where users can share their travel experi
 ## Screenshots
 
 <img width="680" alt="login" src="https://github.com/jliyon23/mini-Social-Media-Project-MernStack/assets/120583161/56f7a9b0-b267-4f58-92e0-8b2b88f930a9">
+<img width="569" alt="signup" src="https://github.com/jliyon23/mini-Social-Media-Project-MernStack/assets/120583161/9ef39237-5670-4c92-8a9f-7d10d8227566">
+<img width="947" alt="home" src="https://github.com/jliyon23/mini-Social-Media-Project-MernStack/assets/120583161/678346fc-7807-423b-a2ed-0662b7a4f613">
+<img width="404" alt="newpost" src="https://github.com/jliyon23/mini-Social-Media-Project-MernStack/assets/120583161/ab7280e9-5bfe-4c8c-84f0-6af3caa4c898">
 
 
 ## Features:
